@@ -1,0 +1,176 @@
+
+
+
+header{
+    background-color: rgb(15, 61, 104);
+    box-shadow: 10px 10px;
+    
+}
+
+header .icone, .links, ul, .functional, h2 {
+    display: inline-block;
+}
+
+.icon-comapani{
+    width: 60px;
+    height: 60px;
+
+
+    margin-top: 2rem;
+    margin-left: 1rem;
+    
+}
+
+.icon-search{
+    width: 60px;
+    height: 60px;
+
+
+    margin-top: 0.2rem;
+}
+
+
+
+.logo-comapani {
+    margin-left: 4.9rem;
+    margin-top: -3.2rem;
+    text-align: center;
+    color: white;
+}
+
+
+
+ul{
+    margin-left: 15rem;
+}
+
+  .links-compani{
+    font-size: 23px;
+    padding: 10px, 25px;
+    box-shadow: 1px, 2px, 3px, 4px;
+    
+    background-color: white;
+    color: black;
+
+
+    text-decoration: none;
+    margin-left: 1rem;
+    border-radius: 5%;
+}
+
+.links-compani:hover{
+    text-decoration: underline;
+}
+
+.content_1 {
+    margin-left: 98rem;
+    margin-top: -4.5rem;
+}
+
+.tel{
+    margin-top: -2rem;
+    margin-left: 4.8rem;
+    color: wheat;
+}
+
+ 
+.auto {
+    text-decoration: underline;
+}
+
+footer{
+    background-color: black;
+
+
+   
+    width: 100%;
+    height: 10%;
+
+
+    font-size: 20px;
+
+    margin-top: 10rem;
+}
+
+hr{
+    color: rgb(15, 61, 104);
+}
+
+.footer{
+    display: block;
+    color: white;
+}
+
+
+.Compani, .position{
+    display: inline-block;
+
+    font-size: 30px;
+}
+
+.position{
+    width: 100px;
+    height: 100px;
+
+    margin-top: -20rem;
+    border-radius: 50%;
+}
+
+.section1{
+    margin-left: 20%;
+
+    padding: 30PX 20PX;
+    
+
+    box-shadow: 10px 10px;
+    
+   
+
+
+    margin-top: 10rem;
+
+}
+
+
+form, label, input{
+    display: block;
+
+
+    font-size: 20px;
+    
+    
+}
+
+form, h1{
+    margin-left: 50%;
+}
+
+
+.section2{
+    margin-left: 20%;
+
+    padding: 30PX 20PX;
+    
+
+    box-shadow: 10px 10px;
+    
+
+
+    margin-top: 10rem;
+}
+ 
+
+ h3, p{
+
+    
+
+    font-size: 30px;
+    text-align: center;
+
+
+    
+}
+
+.Pepol {
+    display: inline-block;
+}

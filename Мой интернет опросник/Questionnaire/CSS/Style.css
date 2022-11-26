@@ -1,0 +1,170 @@
+
+
+header{
+    background-color: rgb(15, 61, 104);
+    width: 150vw;
+    height: 100%;
+    box-shadow: 10px 10px;
+    
+}
+
+aside{
+    display: inline-block;
+    background-color:  rgb(15, 61, 104);
+    margin-top: -2rem;
+    height: 100vw;
+    width: -2rem;
+    
+}
+
+
+main{
+    
+    
+   height: 100rem;
+    
+    
+    
+}
+
+.text_ul{
+    height: 100%;
+
+}
+
+
+.a_text{
+    text-align: center;
+    color: white;
+    display: block;
+}
+
+header .icone, .links, ul, .functional, h2 {
+    display: inline-block;
+}
+
+.icon-comapani{
+    width: 60px;
+    height: 60px;
+
+
+    margin-top: 2rem;
+    margin-left: 1rem;
+    
+}
+
+.icon-search{
+    width: 60px;
+    height: 60px;
+
+
+    margin-top: 0.2rem;
+}
+
+
+
+.logo-comapani {
+    margin-left: 4.9rem;
+    margin-top: -3.2rem;
+    text-align: center;
+    color: white;
+}
+
+
+
+ul{
+    margin-left: 15rem;
+}
+
+  .links-compani{
+    font-size: 23px;
+    padding: 10px, 25px;
+    box-shadow: 1px, 2px, 3px, 4px;
+    
+    background-color: white;
+    color: black;
+
+
+    text-decoration: none;
+    margin-left: 1rem;
+    border-radius: 5%;
+}
+
+.links-compani:hover{
+    text-decoration: underline;
+}
+
+.content_1 {
+    margin-left: 90rem;
+    margin-top: -4.5rem;
+}
+
+.tel{
+    margin-top: -2rem;
+    margin-left: 4.8rem;
+    color: wheat;
+}
+
+ 
+.auto {
+    text-decoration: underline;
+}
+
+
+.form1{
+   
+    padding: 4px 4px 4px;
+    border-radius: 6%;
+    margin-left: 30%;
+    margin-top: -102rem;
+    margin-left: 60%;
+    box-shadow: 10px 10px;
+
+    
+    
+}
+
+label, .radio-button{
+    display: block;
+}
+
+.radio-button{
+    margin-left: 6rem;
+    margin-top: -0.9rem;
+}
+
+.label_text
+{
+    margin-left: -3rem;
+}
+
+.button{
+    margin-left: 50%;
+    margin-top: 3rem;
+    
+    background-color: burlywood;
+}
+
+
+footer{
+    background-color: black;
+
+
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 10;
+
+
+    font-size: 20px;
+
+    margin-left: 0.5rem;
+}
+
+.footer{
+    display: block;
+    color: white;
+}
+
+ 
